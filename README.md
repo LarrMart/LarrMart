@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```mermaid
+graph TD;
+    A["<div style='width: 100px; height: 100px; border-radius: 50%; background-color: lightblue; display: flex; align-items: center; justify-content: center;'>Nodo 1</div>"] --> B["<div style='width: 100px; height: 100px; border-radius: 50%; background-color: lightgreen; display: flex; align-items: center; justify-content: center;'>Nodo 2</div>"];
