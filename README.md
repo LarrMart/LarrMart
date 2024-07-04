@@ -1,3 +1,4 @@
+```mermaid
 flowchart TB
     classDef default display: flex, justify-content: center, padding: 32px, stroke-width: 0;
     classDef bgDark fill:#111, color: white, font-size: 20px, padding: 48px;
